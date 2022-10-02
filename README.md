@@ -3,8 +3,6 @@
 [![@flicker's Holopin board](https://holopin.io/api/user/board?user=flicker)](https://holopin.io/@flicker)
 
 - 👀 I’m interested in Cloud , Devops , Blockchain , web.
-- 🌱 I’m currently learning Cloud , Devops .
-- 💞️ I’m looking to collaborate on any platform.
 - 📫 How to reach me rgvlog786@gmail.com.
 
 <!---
