@@ -1,6 +1,6 @@
 
-### Hi there 👋, my name is Flicker
-#### 📫 How to reach me rgvlog786@gmail.com.
+### Hi there 👋, I'm Flicker
+###### 📫 How to reach me rgvlog786@gmail.com.
   
   
 ![CodeMain](https://user-images.githubusercontent.com/69352034/193948619-e10b260c-33b1-46f8-b13b-fb94235c317d.png)
