@@ -3,7 +3,6 @@
 ###### 📫 How to reach me rgvlog786@gmail.com.
   
   
-![CodeMain](https://user-images.githubusercontent.com/69352034/193948619-e10b260c-33b1-46f8-b13b-fb94235c317d.png)
 
 
 [![@flicker's Holopin board](https://holopin.io/api/user/board?user=flicker)](https://holopin.io/@flicker)
